@@ -3,8 +3,8 @@
 Catálogo de alimentación de cuatro supermercados españoles, con precios y datos
 nutricionales, en JSON. Se regenera **automáticamente cada día a las 06:00 UTC**.
 
-Este repositorio contiene **solo los datos**. El código que los genera (scrapers,
-API y app Android) vive en un repositorio aparte.
+Este repositorio contiene **solo los datos**. El código que los genera —scrapers,
+API y app Android— está en **[elopositor/EasyCompra](https://github.com/elopositor/EasyCompra)**.
 
 ## Ficheros
 
