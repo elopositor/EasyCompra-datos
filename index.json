@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T11:27:21+00:00",
+  "updated_at": "2026-09-23T11:19:07+00:00",
   "supermarkets": {
     "carrefour": {
       "file": "carrefour.json",
@@ -13,14 +13,14 @@
     },
     "lidl": {
       "file": "lidl.json",
-      "count": 134,
+      "count": 99,
       "fresh": true
     },
     "mercadona": {
       "file": "mercadona.json",
-      "count": 593,
+      "count": 706,
       "fresh": true
     }
   },
-  "total": 2125
+  "total": 2203
 }
